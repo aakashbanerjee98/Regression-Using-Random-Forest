@@ -1,7 +1,7 @@
 # Regression-Using-Random-Forest
-USED MODEL:
+#USED MODEL:
 Random Forest Regression
-Parts:
+#Parts:
 Analysing the data and removing the non required column
 Training the model
 Predicting the results
